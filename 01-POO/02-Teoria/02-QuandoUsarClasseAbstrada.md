@@ -39,3 +39,4 @@ public class Girafa extends Animal {
 ```
 
 Neste exemplo, ```Animal``` é uma classe abstrata que define o método abstrato ```alimentar```, que deve ser implementado por todas as subclasses. Além disso, ```Animal``` também possui um método concreto ```respirar```, que é compartilhado por todas as subclasses. As classes ```Leao``` e ```Girafa``` são concretas e fornecem implementações específicas do método ```alimentar```.
+
