@@ -1,8 +1,3 @@
 ### Bibliografia
 
-
-
-|Links: | |  |
-| -------- | ----- | ----------- |
-|[Java Básico](https://glysns.gitbook.io/java-basico)    
-|        |      
+[Java Básico:](https://glysns.gitbook.io/java-basico)
